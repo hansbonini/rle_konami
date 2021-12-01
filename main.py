@@ -155,4 +155,4 @@ if __name__ == "__main__":
         decompress(args.rom.name, args.output, 'RLEKONAMI', args.offset)
     else:
         print('[INFO] Compressing and inserting at {:08x}...'.format(args.offset))
-        compress(args.rom.name, args.output, 'RLEKPNAMI', args.offset)
+        compress(args.rom.name, args.output, 'RLEKONAMI', args.offset)
