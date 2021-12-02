@@ -42,7 +42,8 @@ Tool for decompress and recompress graphics from games developed by KONAMI for N
 - [NES] Top Gun
 - [NES] Tiny Toon Adventures 2 - Trouble in Wackyland
 - [NES] Wai Wai World
-- [NES] Wai Wai World 2 - SOS!! Paseri Jou```
+- [NES] Wai Wai World 2 - SOS!! Paseri Jou
+```
 
 
 ## Usage
