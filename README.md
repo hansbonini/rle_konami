@@ -21,6 +21,7 @@ Tool for decompress and recompress graphics from games developed by KONAMI for N
 - [NES] Ganbare Goemon! - Karakuri Douchuu
 - [NES] Ganbare Goemon 2
 - [NES] Ganbare Goemon Gaiden - Kieta Ougon Kiseru
+- [NES] Goonies II, The
 - [NES] Gradius II
 - [NES] Gyruss
 - [NES] Jackal
